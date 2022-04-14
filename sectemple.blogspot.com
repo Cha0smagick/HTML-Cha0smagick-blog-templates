@@ -6,8 +6,6 @@
 {{Description}}
 </center>
 <br>
-<br>
-<center>
 <center>
 For more hacking info and tutorials visit: https://sectemple.blogspot.com/
 </center>
