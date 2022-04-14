@@ -12,6 +12,7 @@
 <center>
 We also invite you to visit our other blogs:
 <br>
+<br>
 <a href="https://elantroposofista.blogspot.com/">https://elantroposofista.blogspot.com/</a><br>
 <a href="https://sectemple.blogspot.com/">https://sectemple.blogspot.com/</a><br>
 <a href="https://elrinconparanormal.blogspot.com/">https://elrinconparanormal.blogspot.com/</a><br>
